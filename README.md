@@ -1,11 +1,13 @@
-https://github.com/CmlSph/CmlSph/blob/master/Cemal_2.png
+<p align="center">
+<img src="https://github.com/CmlSph/CmlSph/blob/master/Cemal_2.png" alt="git" height="400" style="vertical-align:top; margin:4px">
+  <br/>
+  <img src="https://user-images.githubusercontent.com/50744947/122562373-4a211380-d043-11eb-99bf-e183ef94c78e.png" alt="git" height="200" style="vertical-align:top; margin:4px"><img  src="https://user-images.githubusercontent.com/50744947/122562537-776dc180-d043-11eb-8505-d06057d9265e.png" alt="git" height="200" style="vertical-align:top; margin:4px">
+  
+<br/>
 
-[![Cemal Sipahi](https://raw.githubusercontent.com/CmlSph/<OWNER>/<OWNER>/Cemal_2.png "Header")](https://bit.ly/HYF_CEMAL)
+</p>
 
-
-![image](https://user-images.githubusercontent.com/50744947/122562373-4a211380-d043-11eb-99bf-e183ef94c78e.png)![image](https://user-images.githubusercontent.com/50744947/122562537-776dc180-d043-11eb-8505-d06057d9265e.png)
-
-### Hi, I'm Cemal 👋
+## Hi, I'm Cemal 👋
 ### A student at HackYourFuture coding school, who is dedicated to becoming a full-stack developer.
 
 - 🔭 I will be working on a MERN project in June and July.
