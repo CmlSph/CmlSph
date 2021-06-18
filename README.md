@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi, I'm Cemal 👋
+### A student at HackYourFuture coding school, who is dedicated to becoming a full-stack web developer.
+
+- 🔭 I will be working on a full-stack online-shop project.
+- 💬 Ask me about HTML, CSS, JavaScript, Node.js, SQL, MySql, MongoDB, React.js
+- 📫 How to reach me: https://bit.ly/HYF_CEMAL
+
+### Connect with me:
+https://bit.ly/HYF_CEMAL
+
+### Languages:
+![image](https://user-images.githubusercontent.com/50744947/122559226-5c00b780-d03f-11eb-87ba-994d24d072d0.png) ![image](https://user-images.githubusercontent.com/50744947/122559288-6e7af100-d03f-11eb-975b-ced281e3b882.png) ![image](https://user-images.githubusercontent.com/50744947/122559342-7e92d080-d03f-11eb-971a-6ceb2742aa7f.png)
+
+![image](https://user-images.githubusercontent.com/50744947/122559437-9cf8cc00-d03f-11eb-99d5-6184da86c67a.png)![image](https://user-images.githubusercontent.com/50744947/122559472-aa15bb00-d03f-11eb-932a-1e774612a46f.png)![image](https://user-images.githubusercontent.com/50744947/122559489-b1d55f80-d03f-11eb-820d-520cd21f2be9.png)
+
+![image](https://user-images.githubusercontent.com/50744947/122559517-bd288b00-d03f-11eb-8ecd-3d676c1639da.png)![image](https://user-images.githubusercontent.com/50744947/122559556-c87bb680-d03f-11eb-8e96-78bae8fbac0e.png)
+
+![image](https://user-images.githubusercontent.com/50744947/122559690-f3660a80-d03f-11eb-96a4-e9cffc9d026d.png)
+
+
+
 
 <!--
 **CmlSph/CmlSph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
