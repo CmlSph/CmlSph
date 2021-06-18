@@ -3,16 +3,10 @@
 
 ![image](https://user-images.githubusercontent.com/50744947/122562373-4a211380-d043-11eb-99bf-e183ef94c78e.png)![image](https://user-images.githubusercontent.com/50744947/122562537-776dc180-d043-11eb-8505-d06057d9265e.png)
 
-
-
-
-
-
-
 ### Hi, I'm Cemal 👋
 ### A student at HackYourFuture coding school, who is dedicated to becoming a full-stack web developer.
 
-- 🔭 I will be working on a full-stack online-shop project.
+- 🔭 I will be working on a MERN project in June and July.
 - 💬 Ask me about HTML, CSS, JavaScript, Node.js, SQL, MySql, MongoDB, React.js
 - 📫 How to reach me: https://bit.ly/HYF_CEMAL
 
@@ -29,7 +23,8 @@ https://bit.ly/HYF_CEMAL
 ![image](https://user-images.githubusercontent.com/50744947/122559690-f3660a80-d03f-11eb-96a4-e9cffc9d026d.png)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<CmlSph>&theme=<>" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CmlSph&hide=handlebars,shell&show_icons=true&theme=radical)](https://github.com/CmlSph/github-readme-stats)![Cemal's GitHub stats](https://github-readme-stats.vercel.app/api?username=CmlSph&show_icons=true&theme=radical)
+
 
 
 <!--
