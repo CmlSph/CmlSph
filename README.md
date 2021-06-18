@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/CmlSph/<CmlSph>/<CmlSph>/readme_header.png "Header")](https://bit.ly/HYF_CEMAL)
+[![Header](https://raw.githubusercontent.com/CmlSph/<OWNER>/<OWNER>/cemal_2.png "Header")](https://bit.ly/HYF_CEMAL)
 
 
 ![image](https://user-images.githubusercontent.com/50744947/122562373-4a211380-d043-11eb-99bf-e183ef94c78e.png)![image](https://user-images.githubusercontent.com/50744947/122562537-776dc180-d043-11eb-8505-d06057d9265e.png)
@@ -29,6 +29,7 @@ https://bit.ly/HYF_CEMAL
 ![image](https://user-images.githubusercontent.com/50744947/122559690-f3660a80-d03f-11eb-96a4-e9cffc9d026d.png)
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<CmlSph>&theme=<>" />
 
 
 <!--
