@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/50744947/122562373-4a211380-d043-11eb-99bf-e183ef94c78e.png)![image](https://user-images.githubusercontent.com/50744947/122562537-776dc180-d043-11eb-8505-d06057d9265e.png)
 
 ### Hi, I'm Cemal 👋
-### A student at HackYourFuture coding school, who is dedicated to becoming a full-stack web developer.
+### A student at HackYourFuture coding school, who is dedicated to becoming a full-stack developer.
 
 - 🔭 I will be working on a MERN project in June and July.
 - 💬 Ask me about HTML, CSS, JavaScript, Node.js, SQL, MySql, MongoDB, React.js
