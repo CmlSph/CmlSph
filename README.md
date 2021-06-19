@@ -13,10 +13,10 @@
 
 - 🔭 I will be working on a MERN project in June and July.
 - 💬 Ask me about HTML, CSS, JavaScript, Node.js, SQL, MySql, MongoDB, React.js
-- 📫 How to reach me: <a href="https://bit.ly/HYF_CEMAL">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/cemal-sipahioglu/">Linkedin</a>
 
 ### Connect with me:
-<a href="https://bit.ly/HYF_CEMAL">Linkedin</a>
+<a href="https://www.linkedin.com/in/cemal-sipahioglu/">Linkedin</a>
 
 ## 🧰 Languages and Tools:
 <p align="left">
