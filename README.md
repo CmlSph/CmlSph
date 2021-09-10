@@ -9,9 +9,8 @@
 </p>
 
 ## Hi, I'm Cemal 👋
-### A student at HackYourFuture coding school, who is dedicated to becoming a full-stack developer.
+### 
 
-- 🔭 I will be working on a MERN project in June and July.
 - 💬 Ask me about HTML, CSS, JavaScript, Node.js, SQL, MySql, MongoDB, React.js
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/cemal-sipahioglu/">Linkedin</a>
 
